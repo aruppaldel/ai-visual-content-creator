@@ -1,0 +1,13 @@
+{
+  "name": "ai-visual-content-creator",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "openai": "^5.12.2"
+  }
+}
